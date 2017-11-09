@@ -26,7 +26,7 @@ function startApp() {
     $("#accordion").accordion({ collapsible: "true", active: "false", heightStyle: "content" });
 }
 
-// Image decoders (for web workers)
+// Image decoders (for web workers)asdfasd
 dwv.image.decoderScripts = {
     "jpeg2000": "./decoders/pdfjs/decode-jpeg2000.js",
     "jpeg-lossless": "./decoders/rii-mango/decode-jpegloss.js",
